@@ -1,0 +1,29 @@
+{
+  "name": "curso_react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "gulp",
+    "curso"
+  ],
+  "author": "Leonardo Pricevicius",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^0.18.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-react-easy": "^0.1.9",
+    "gulp-rename": "^1.2.3",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-router-dom": "^4.2.2"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
